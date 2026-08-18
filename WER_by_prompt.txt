@@ -1,0 +1,26 @@
+Using prompt:  Yeah, so anyway that was honestly a shitshow. Let's get into it.
+Models tested: whisper-1, WER Score: 0.016710281889450774, whisper-large-v3, WER Score: 0.11141327784849481, whisper-large-v3-turbo, WER Score: 0.03720724439673361
+
+Using prompt: 
+Models tested: whisper-1, WER Score: 0.025155342663235186, whisper-large-v3, WER Score: 0.02607333922533037, whisper-large-v3-turbo, WER Score: 0.025386701550312724
+
+Using prompt:  so uh, yeah
+Models tested: whisper-1, WER Score: 0.02079919340258976, whisper-large-v3, WER Score: 0.0515091703302674, whisper-large-v3-turbo, WER Score: 0.035180703073785104
+
+Using prompt:  fuck
+Models tested: whisper-1, WER Score: 0.09985519298430011, whisper-large-v3, WER Score: 0.026001171143729865, whisper-large-v3-turbo, WER Score: 0.3470874376739938
+
+Using prompt:  uh, you gotta fucking ask it.
+Models tested: whisper-1, WER Score: 0.01627191038071998, whisper-large-v3, WER Score: 0.031360718244650955, whisper-large-v3-turbo, WER Score: 0.029825352067686883
+
+Using prompt:  I'd say, uh, fucking ask it.
+Models tested: whisper-1, WER Score: 0.017232377404940588, whisper-large-v3, WER Score: 0.03133515506173485, whisper-large-v3-turbo, WER Score: 0.03078375478989723
+
+Using prompt:  Um, there's no fucking defence.
+Models tested: whisper-1, WER Score: 0.02470703084250345, whisper-large-v3, WER Score: 0.03431222309690302, whisper-large-v3-turbo, WER Score: 0.03262922787215892
+
+Using prompt:  That's the defence.
+Models tested: whisper-1, WER Score: 0.017112375842086906, whisper-large-v3, WER Score: 0.046278723552220964, whisper-large-v3-turbo, WER Score: 0.03207124183116325
+
+Using prompt:  defence
+Models tested: whisper-1, WER Score: 0.08994531850199455, whisper-large-v3, WER Score: 0.0261826264150055, whisper-large-v3-turbo, WER Score: 0.2321390703374944

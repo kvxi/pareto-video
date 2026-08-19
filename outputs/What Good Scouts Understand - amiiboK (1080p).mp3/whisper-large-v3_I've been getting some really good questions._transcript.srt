@@ -1,0 +1,543 @@
+1
+00:00:00,000 --> 00:00:08,280
+A few people asked me what you're actually meant to do with Scout when your team's on defense or getting completely rolled or you're playing on some narrow map like Dust Bowl where there's barely anywhere to move.
+
+2
+00:00:08,500 --> 00:00:12,000
+And they all sound like different questions, but it's pretty much the same problem.
+
+3
+00:00:12,260 --> 00:00:15,160
+You can't just hold W and take whatever fight you want anymore.
+
+4
+00:00:15,580 --> 00:00:18,440
+Because Scout feels ridiculous when your team's doing well.
+
+5
+00:00:18,820 --> 00:00:25,180
+Everyone's distracted, people are getting separated, you've got space to run around and you're usually the first person there whenever a fight opens up.
+
+6
+00:00:25,180 --> 00:00:29,300
+But the second your team loses all that pressure and every doorway starts getting watched,
+
+7
+00:00:29,640 --> 00:00:35,000
+Scout can go from feeling like he has no limitations to feeling like one of the most useless classes in the game.
+
+8
+00:00:38,560 --> 00:00:42,560
+So a lot of this video is going to be about slowing down a bit, using chip damage,
+
+9
+00:00:42,680 --> 00:00:46,900
+sitting further back on high ground where you can actually see what's going on, and waiting for someone to
+
+10
+00:00:47,020 --> 00:00:50,740
+overextend instead of launching yourself into three people every time you see their backs turned.
+
+11
+00:00:50,740 --> 00:00:55,420
+Because even when an opening looks really good, you still have to think about whether your team is alive,
+
+12
+00:00:55,420 --> 00:00:59,480
+whether anyone can actually help you, and whether dying for that play is even worth it.
+
+13
+00:00:59,480 --> 00:01:05,960
+Especially when you're defending on red in payload or attack defend, because you can't take your life for granted like Blue Team Cat, because
+
+14
+00:01:05,980 --> 00:01:09,900
+those respawn times on certain maps get just ridiculous, and
+
+15
+00:01:10,340 --> 00:01:14,120
+one bad death can take you out of the fight for what feels like forever.
+
+16
+00:01:14,640 --> 00:01:20,180
+And Scout can create way more for his team than the scoreboard actually shows. You can make half the enemy team turn around,
+
+17
+00:01:20,180 --> 00:01:24,080
+You can go around, pull someone away from the objective, or force their medic backwards,
+
+18
+00:01:24,080 --> 00:01:27,620
+but your team still has to notice and do something with it.
+
+19
+00:01:27,620 --> 00:01:30,860
+So we're going to go through all of that with some pre-recorded clips that I'm going to
+
+20
+00:01:30,860 --> 00:01:34,780
+lightly commentate, and how to stay useful when you can't hold W, how to know when to
+
+21
+00:01:34,780 --> 00:01:39,760
+commit, and how to tell when you made a bad play versus when your team just didn't take
+
+22
+00:01:39,760 --> 00:01:42,500
+advantage of what you created.
+
+23
+00:01:42,500 --> 00:01:46,380
+In downtime situations like this on defence, chip damage is sometimes all you can really
+
+24
+00:01:46,380 --> 00:01:48,600
+do, but it's more important than people think.
+
+25
+00:01:48,600 --> 00:01:52,300
+It makes people look back, slows them down and forces them to look for heals.
+
+26
+00:01:52,300 --> 00:01:56,160
+And make sure not just when pestering people, but in general, make sure you're on an elevated
+
+27
+00:01:56,160 --> 00:01:58,660
+platform when holding any position with scout.
+
+28
+00:01:58,660 --> 00:02:01,820
+It's crucial that if you get the chance, to not let engineers get their sentry built in
+
+29
+00:02:01,820 --> 00:02:02,900
+the first place.
+
+30
+00:02:02,900 --> 00:02:06,840
+If it's level 3, you alert your team and when your combo comes out to deal with it, help
+
+31
+00:02:06,840 --> 00:02:10,640
+them if you can at that very moment, but otherwise pay attention to the flanks.
+
+32
+00:02:10,640 --> 00:02:14,280
+The engineer was on the ball here, and he starts building again so I call it out to
+
+33
+00:02:14,280 --> 00:02:18,360
+my soldier friend and he deals with it straight away.
+
+34
+00:02:18,360 --> 00:02:22,760
+The engineer's probably thinking, oh my god I'm so unlucky, they keep walking out as soon as I build my stuff.
+
+35
+00:02:23,120 --> 00:02:29,060
+But it isn't luck, I'm scouting out these areas, I'm being an actual scout, and I'm communicating what I see to my team.
+
+36
+00:02:29,620 --> 00:02:45,460
+At the same time I not overextending I treating these two flanks like they my post I contesting them and I cleaning up anyone who tries to walk through But I not running forward trying to take a 1v2 I just taking it slow taking my time and making sure these areas stay contested because after all we playing defense
+
+37
+00:02:45,460 --> 00:02:50,180
+We're not the ones attacking. You don't need to hold W as much as you might think just because you're playing Scout.
+
+38
+00:02:59,260 --> 00:03:07,640
+Right here I'm backed into a corner by a pyro and a scout.
+
+39
+00:03:07,640 --> 00:03:11,480
+It doesn't look like I have anywhere to go but there's this tiny slope in the ground.
+
+40
+00:03:11,480 --> 00:03:15,720
+I run up it, jump backwards and it gives me just enough height to double jump forward
+
+41
+00:03:15,720 --> 00:03:17,060
+over the pyro's head.
+
+42
+00:03:17,060 --> 00:03:20,920
+That tiny bit of elevation saves me from getting flamed and just happens to set me up to kill
+
+43
+00:03:20,920 --> 00:03:22,140
+the scout as well.
+
+44
+00:03:22,140 --> 00:03:25,640
+That's one of the best skills you can have as a scout, not just seamlessly using anything
+
+45
+00:03:25,640 --> 00:03:29,1000
+around you, but identifying what can be used as high ground in the first place.
+
+46
+00:03:29,1000 --> 00:03:33,640
+It's a bit like Emmet becoming a master builder at the end of the Lego movie, except you're
+
+47
+00:03:33,640 --> 00:03:39,400
+looking at every box, railing or tiny slope and thinking, can I use it as high ground?
+
+48
+00:03:39,400 --> 00:03:42,1000
+Basically any type of elevated platform will let you get extra height and reposition with
+
+49
+00:03:42,1000 --> 00:03:46,280
+less risk.
+
+50
+00:03:46,280 --> 00:03:49,780
+Like the last clip, this is a defensive situation that isn't as straightforward as holding
+
+51
+00:03:49,780 --> 00:03:52,460
+a boxed in last with two obvious flanks.
+
+52
+00:03:52,460 --> 00:03:55,480
+When you're forced to fight in more open areas without much pressure from your team,
+
+53
+00:03:55,480 --> 00:03:59,080
+Scout needs to take some of that pressure off them by becoming the centre of attention,
+
+54
+00:03:59,080 --> 00:04:00,600
+without just throwing his life away.
+
+55
+00:04:00,600 --> 00:04:04,600
+It's about occupying spaces the enemy can't ignore, forcing them to deal with you and
+
+56
+00:04:04,600 --> 00:04:16,860
+drawing attention away from your team while still prioritising survivability.
+
+57
+00:04:16,860 --> 00:04:20,360
+Once your team is no longer occupying the space you were trying to defend, and the enemy
+
+58
+00:04:20,360 --> 00:04:24,280
+has taken full control of that area, your presence there becomes much less valuable.
+
+59
+00:04:24,280 --> 00:04:27,600
+If you still have space behind you to retreat into, use it.
+
+60
+00:04:27,600 --> 00:04:31,620
+There's no reason to keep testing an area your team no longer has any presence in, especially
+
+61
+00:04:31,620 --> 00:04:32,920
+when you're on defence.
+
+62
+00:04:32,920 --> 00:04:37,180
+Your job isn't to take the space back by yourself, it's to stay alive, continue slowing them
+
+63
+00:04:37,180 --> 00:04:41,380
+down and keep running time off the clock, but you need to be alive to do this.
+
+64
+00:04:41,380 --> 00:04:45,360
+Where blue team is all about trying to get one big coordinated push to break through,
+
+65
+00:04:45,360 --> 00:04:46,840
+red is more about survivability.
+
+66
+00:04:50,360 --> 00:04:57,360
+The previous clip was a good example of what scout should be doing when his team doesn't have much presence in the area, but when your team is established and actually occupying the space you're defending, your role changes.
+
+67
+00:04:57,360 --> 00:05:20,599
+Now your job is to prevent threats from reaching your team by pestering them or killing them like this sniper I focused in on to prevent him landing an easy headshot on my heavy or med and clean up easy picks on enemies your power class is already engaging with and safely apply chip damage that forces blue to retreat or delays their push
+
+68
+00:05:20,819 --> 00:05:26,599
+You're still trying to have as much impact as possible, but without overcommitting and throwing away the position your team has already established.
+
+69
+00:05:33,519 --> 00:05:51,639
+Another question I got was how you're meant to play scout and narrow maps like Dust Bowl.
+
+70
+00:05:51,639 --> 00:05:55,419
+Honestly, maps like Dust Bowl and Gold Rush are where you need to take all of this advice
+
+71
+00:05:55,419 --> 00:06:00,339
+the most seriously. They're old, restrictive maps where the balances age pretty badly,
+
+72
+00:06:00,339 --> 00:06:05,159
+Sadly, especially for red, your respawn can be anywhere from 18 to 22 seconds and the
+
+73
+00:06:05,159 --> 00:06:07,579
+points can be captured absurdly quickly.
+
+74
+00:06:07,579 --> 00:06:10,919
+And because of that, there isn't some secret flank or defensive strategy that suddenly
+
+75
+00:06:10,919 --> 00:06:11,919
+makes scout amazing.
+
+76
+00:06:11,919 --> 00:06:15,739
+You have to be extremely deliberate about where you position yourself, which fights
+
+77
+00:06:15,739 --> 00:06:18,799
+you take and whether you are actually where your team needs you.
+
+78
+00:06:18,799 --> 00:06:22,459
+High ground is still important, but only if it's actually safe.
+
+79
+00:06:22,459 --> 00:06:25,779
+Most of the obvious high ground on the first section of Dust Bowl leaves you exposed to
+
+80
+00:06:25,779 --> 00:06:27,319
+snipers and spam.
+
+81
+00:06:27,319 --> 00:06:31,479
+Sometimes you genuinely have to play around the point and be prepared to back up once
+
+82
+00:06:31,479 --> 00:06:33,719
+your team loses that space.
+
+83
+00:06:33,719 --> 00:06:37,819
+In this clip I move around and help my team defend the choke, but I always end up returning
+
+84
+00:06:37,819 --> 00:06:39,819
+to the same flank besides the point.
+
+85
+00:06:39,819 --> 00:06:43,879
+It gives me cover, close range fights and an easy escape, while still allowing me to
+
+86
+00:06:43,879 --> 00:06:45,379
+directly defend the point.
+
+87
+00:06:45,379 --> 00:06:49,019
+It's also a really common place for blue to put a teleporter, so it's naturally somewhere
+
+88
+00:06:49,019 --> 00:06:51,079
+scout can find a lot of value.
+
+89
+00:06:51,079 --> 00:06:52,779
+Target priority is also important.
+
+90
+00:06:52,779 --> 00:06:56,679
+In general, if you see something like a direct hit soldier, there's a good chance he's
+
+91
+00:06:56,679 --> 00:06:58,679
+I'm not using it because he wants to destroy your team's sentry nest.
+
+92
+00:06:59,119 --> 00:07:04,439
+Scout could choose his fights, so you should use that freedom to focus the people who are most threatening to your team.
+
+93
+00:07:04,539 --> 00:07:08,439
+You need to play as a team better than Blue does on old maps like Gold Rush and Dust Bowl.
+
+94
+00:07:08,679 --> 00:07:14,339
+Something I like doing is briefly moving into Blue's territory and getting someone's attention and then immediately retreating.
+
+95
+00:07:14,819 --> 00:07:19,319
+Impatient players will often overreact and chase you too far, which brings them directly into your team.
+
+96
+00:07:19,319 --> 00:07:24,119
+That's what happens to this Pyro when he follows me up the stairs just then and my soldier friend already
+
+97
+00:07:24,119 --> 00:07:28,079
+I already was holding that position behind me and I knew that so he deals with the pirate straight away.
+
+98
+00:07:28,079 --> 00:07:33,079
+I'm not just running away from the fight, I'm dragging the pirate into a fight that's much better for my team.
+
+99
+00:07:33,079 --> 00:07:47,639
+And give Coldouts a scout because I already mentioned this but he cold scout for a reason and you often the first person who can see what Blue is doing So make your team aware of anything they deserve to know about It doesn need to be complicated
+
+100
+00:07:48,379 --> 00:07:50,919
+You know, it's just that their combo is coming through the top left flank
+
+101
+00:07:50,919 --> 00:07:54,659
+or a pyro is jetpacking towards you or someone is moving into your team space.
+
+102
+00:07:54,779 --> 00:07:58,679
+Even basic information just gives your team time to react and capitalize.
+
+103
+00:08:00,439 --> 00:08:04,799
+Now, I know not everyone wants to treat casual like a scrim and constantly give out cold outs,
+
+104
+00:08:04,799 --> 00:08:10,919
+But this 6's clip is the clearest way I can show you how powerful they are and how powerful Scalper comes when his team can actually
+
+105
+00:08:11,319 --> 00:08:15,959
+capitalize on the openings he creates. I don't create this opening by dropping the medic
+
+106
+00:08:15,959 --> 00:08:21,319
+I create it by forcing basically their entire team to turn around and focus on me. For those few seconds
+
+107
+00:08:21,319 --> 00:08:26,879
+none of them are looking at my team which gives everyone else the opportunity to move forward and wipe out basically their entire team.
+
+108
+00:08:27,099 --> 00:08:29,679
+But that's only powerful if my team knows what's happening.
+
+109
+00:08:29,679 --> 00:08:35,679
+I can't expect them to capitalize on the entire enemy team looking at me unless I call it out and make them aware.
+
+110
+00:08:35,919 --> 00:08:40,839
+Once I do, they know that the opening exists and can immediately take advantage of it.
+
+111
+00:08:40,839 --> 00:08:47,359
+And this is what it looks like in full swing when your team capitalizes on the opening Scout creates. Your value isn't always the player you kill.
+
+112
+00:08:47,539 --> 00:08:52,999
+Sometimes it's how much attention you pull away from everyone else and this absolutely applies to casual as well.
+
+113
+00:08:53,299 --> 00:08:56,359
+People just don't communicate it nearly enough, especially a Scout.
+
+114
+00:08:56,359 --> 00:09:00,459
+That's pretty much everything I have to say for this video.
+
+115
+00:09:00,459 --> 00:09:04,919
+If you watched the last one, let me know what you thought of this one compared to that one.
+
+116
+00:09:04,919 --> 00:09:09,679
+And I still genuinely can't believe you guys got that video past 60,000 views.
+
+117
+00:09:09,679 --> 00:09:14,039
+I'm extremely grateful for all the engagement and I'm just really happy that so many of
+
+118
+00:09:14,039 --> 00:09:17,239
+you wanted to see more and had so many questions for me.
+
+119
+00:09:17,239 --> 00:09:21,239
+But yeah, if you know anyone who might benefit from this video, consider sharing it with
+
+120
+00:09:21,239 --> 00:09:22,239
+them.
+
+121
+00:09:22,239 --> 00:09:23,239
+I'd really appreciate it.
+
+122
+00:09:23,239 --> 00:09:28,559
+For the next video, I was thinking about talking more specifically about aiming with Scout.
+
+123
+00:09:28,559 --> 00:09:32,959
+I don't have the greatest traditional aim, but a lot of aiming with Scout comes from
+
+124
+00:09:32,959 --> 00:09:37,639
+how you use your movement rather than purely being good at tracking people.
+
+125
+00:09:37,639 --> 00:09:41,999
+I'd love to dive deeper into that while mixing in some more general Scout advice like I did
+
+126
+00:09:41,999 --> 00:09:43,259
+with this video.
+
+127
+00:09:43,259 --> 00:09:47,739
+And I'm also working on making a Discord server and uploading more frequently and starting
+
+128
+00:09:47,739 --> 00:09:49,399
+to do things like streaming.
+
+129
+00:09:49,399 --> 00:09:52,059
+So yeah, so stay tuned for that.
+
+130
+00:09:52,059 --> 00:09:56,279
+And there wasn't really many facecam clips in this video because most of it was really
+
+131
+00:09:56,279 --> 00:10:00,299
+old footage that I wanted to finally use and clear off my PC.
+
+132
+00:10:00,299 --> 00:10:03,999
+But the next video will be completely fresh gameplay.
+
+133
+00:10:03,999 --> 00:10:08,359
+So if you're an Aussie player I'll probably see you around because I'm going to be trying
+
+134
+00:10:08,359 --> 00:10:10,219
+to get some new clips and all that.
+
+135
+00:10:10,219 --> 00:10:15,839
+But yeah, thanks everyone for whoever made it this far and I'll see you guys in the next
+
+136
+00:10:15,839 --> 00:10:16,099
+one.

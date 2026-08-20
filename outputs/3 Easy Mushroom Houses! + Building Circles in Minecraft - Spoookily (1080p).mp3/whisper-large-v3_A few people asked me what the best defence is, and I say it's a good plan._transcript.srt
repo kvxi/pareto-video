@@ -19,565 +19,509 @@ that's on my mind. And lately I've been seeing a whole lot of cottagecore Minecr
 circulating around the internet, getting a lot of views. And so I downloaded some shaders,
 
 6
-00:00:24,300 --> 00:00:27,180
-I've been playing Minecraft for years, and launched minecraft at like 6fps and built
+00:00:24,300 --> 00:00:54,280
+I've been playing Minecraft for a long time, and I've been playing Minecraft for a long time,
 
 7
-00:00:27,180 --> 00:00:29,440
-this for nostalgia.
+00:00:54,300 --> 00:01:19,900
+The first house is pretty easy.
 
 8
-00:00:29,440 --> 00:00:33,080
-And if you're like literally any person who's played minecraft over the years, these houses
+00:01:19,900 --> 00:01:24,280
+You're going to want to start out with a statistically impossible mushroom in the middle of a field,
 
 9
-00:00:33,080 --> 00:00:34,940
-were the bomb.
+00:01:24,280 --> 00:01:26,160
+Then use bone meal to make it big.
 
 10
-00:00:34,940 --> 00:00:37,080
-They were like move in ready.
-
-11
-00:00:37,080 --> 00:00:41,240
-Of course, there was only room for like 3 things to fit in there, and then there was
-
-12
-00:00:41,240 --> 00:00:43,060
-this problem.
-
-13
-00:00:43,060 --> 00:00:46,760
-It's minecraft cottagecore aesthetic because the mushroom houses with this aesthetic are
-
-14
-00:00:46,760 --> 00:00:48,200
-like next level.
-
-15
-00:00:48,200 --> 00:00:52,760
-They are chef's kiss, they are immaculate, and suddenly your wiki how tutorial on how
-
-16
-00:00:52,760 --> 00:00:58,160
-How to make simple mushroom houses featuring acacia plank flooring are more un-aesthetic
-
-17
-00:00:58,160 --> 00:01:01,060
-than the 2013 mustache trend.
-
-18
-00:01:01,060 --> 00:01:09,020
-And if this strangely specific scenario applies to you, then boy will you like this tutorial.
-
-19
-00:01:09,020 --> 00:01:14,520
-So now I present 3 ways to make mushroom houses in Minecraft!
-
-20
-00:01:14,520 --> 00:01:17,240
-Yayyyyy!
-
-21
-00:01:17,240 --> 00:01:19,880
-So the first house is pretty easy.
-
-22
-00:01:19,880 --> 00:01:24,160
-We're gonna want to start out with a statistically impossible mushroom in the middle of a field
-
-23
-00:01:24,160 --> 00:01:26,160
-and use bone meal to make it big.
-
-24
 00:01:26,160 --> 00:01:31,600
 Now stare at that mushroom until you decide to mutilate it to look aesthetic, like this.
 
-25
+11
 00:01:31,600 --> 00:01:35,580
 I wanted the mushroom to look a bit different than the other simple mushroom houses you
 
-26
+12
 00:01:35,580 --> 00:01:41,900
-typically see, so I went for a more of a bell shaped curve for the top of the mushroom.
+typically see, so I went for more of a bell shaped curve for the top of the mushroom.
 
-27
+13
 00:01:41,900 --> 00:01:45,520
 You could also use one of those mini water bottles for reference.
 
-28
-00:01:45,520 --> 00:01:51,200
+14
+00:01:45,520 --> 00:01:51,120
 I modeled mine based on an upside down flower pot, and I think it turned out pretty good.
 
-29
-00:01:51,200 --> 00:01:56,280
+15
+00:01:51,120 --> 00:01:56,280
 Once you have achieved maximum upside down flower pot conformity, then you can start
 
-30
+16
 00:01:56,280 --> 00:01:59,360
 modifying the stem to make it look stalkier.
 
-31
+17
 00:01:59,360 --> 00:02:04,300
 I used the mushroom stem block and smooth quartz stairs, and if you're in survival
 
-32
+18
 00:02:04,300 --> 00:02:07,840
 you'll probably want to mine a few of the big mushrooms with a silk touch axe to get
 
-33
+19
 00:02:07,840 --> 00:02:09,180
 the materials for this.
 
-34
+20
 00:02:09,180 --> 00:02:13,180
 I used birch plank flooring to match the rest of the interior.
 
-35
+21
 00:02:13,180 --> 00:02:24,847
-Now I really like this house but there not much room Sorry for my spore sense of humour Here the big grand reveal of this house Very simple I give it an 8 out of 10
+Now I really like this house but there not mushroom Sorry for my spore sense of humour Here the big grand reveal of this house Very simple I give it an 8 out of 10
 
-36
+22
 00:02:25,527 --> 00:02:26,327
 Next house.
 
-37
+23
 00:02:26,667 --> 00:02:34,027
 This is a little bit more difficult than the last one, and so you're going to start out by making a frame that looks like the outline of a handmade cube of Play-Doh,
 
-38
+24
 00:02:34,027 --> 00:02:42,867
 the kind that the edges never seem sharp enough, and then start sculpting it to look like the body of this absurdly priced plastic Minnie Mouse teapot I found on Amazon.
 
-39
+25
 00:02:42,867 --> 00:02:48,547
 I use smooth quartz blocks, slabs, and stairs to accomplish this.
 
-40
+26
 00:02:48,547 --> 00:02:52,627
 And if you want to use mushroom stem blocks, I'm sure you could, but I just like quartz
 
-41
+27
 00:02:52,627 --> 00:02:56,627
 because it makes the mushroom stems seem smooth and continuous, sort of like a differentiable
 
-42
+28
 00:02:56,627 --> 00:02:57,627
 equation.
 
-43
+29
 00:02:57,627 --> 00:03:00,747
 Also because it's not a pain to get all those stems.
 
-44
+30
 00:03:00,747 --> 00:03:04,967
 After this, start making the stem taller to look almost like a BB-8, and then give the
 
-45
+31
 00:03:04,967 --> 00:03:07,627
 wannabe BB-8 some helicopter blades.
 
-46
+32
 00:03:07,627 --> 00:03:10,907
 These will be the radius of your circular mushroom cap.
 
-47
+33
 00:03:10,907 --> 00:03:14,667
 Then connect those little helicopter blades to form a circle.
 
-48
+34
 00:03:14,667 --> 00:03:20,027
 Also I never really found these graphs useful, I always find them on like TikTok, but then
 
-49
+35
 00:03:20,027 --> 00:03:23,527
 again I always just wing it and it doesn't look very circular so maybe they're helpful
 
-50
+36
 00:03:23,527 --> 00:03:26,347
 to you but mine turned out pretty great in the end.
 
-51
+37
 00:03:26,347 --> 00:03:31,947
 Anyway start outlining the circle in red mushroom blocks and then be indecisive and then decide
 
-52
+38
 00:03:31,947 --> 00:03:37,627
 on making the easy way out and make a circular spherical looking mushroom cap.
 
-53
+39
 00:03:37,627 --> 00:03:40,907
 Mine is about 6 blocks tall, and unlike me, you probably want to make sure there's no
 
-54
+40
 00:03:40,907 --> 00:03:43,207
 weird blocks left exposed.
 
-55
+41
 00:03:43,207 --> 00:03:47,807
 Then I made the door and the window and outlined them in the most superior wood type, spruce
 
-56
+42
 00:03:47,807 --> 00:03:48,807
 wood.
 
-57
+43
 00:03:48,807 --> 00:03:52,807
 I used planks, fences, and stairs as well as oak leaves for the window boxes.
 
-58
+44
 00:03:52,807 --> 00:03:56,707
 To add some extra whimsy, you can make a dilapidated cobblestone chimney and drape that with oak
 
-59
+45
 00:03:56,707 --> 00:03:57,707
 leaves.
 
-60
+46
 00:03:57,707 --> 00:04:04,107
 To add some stuff to the interior, I connected the chimney to a fireplace furnace type thing
 
-61
+47
 00:04:04,107 --> 00:04:10,787
 I added an unnecessary amount of bookshelves and leaves, because when in doubt, add oak leaves and bookshelves. That's my motto.
 
-62
+48
 00:04:11,387 --> 00:04:20,507
 Also, I used flowerpots, turtle eggs, and sea pickles for the inside, and then I discovered that in 1.16.5 you can place turtle eggs on flowerpots, which is kind of weird.
 
-63
+49
 00:04:21,187 --> 00:04:25,527
 Anywho, I used vines as a ladder to the attic area, which will be a cute little bedroom.
 
-64
+50
 00:04:25,847 --> 00:04:29,747
 I outlined the roof with spruce wood and then placed some bookshelves behind them.
 
-65
+51
 00:04:30,067 --> 00:04:45,473
 This would also be a cool enchanting room but the house demands a bedroom I added in a skylight which looks good with the shaders and I sure it would look good without them So this is the finished build It only took me about 45 minutes to do in creative so not too bad
 
-66
+52
 00:04:45,473 --> 00:04:46,473
 Tada!
 
-67
+53
 00:04:46,473 --> 00:04:50,013
 Alright, onto the last one!
 
-68
+54
 00:04:50,013 --> 00:04:53,733
 This one is kinda hard, but not like prior or gaming at the end of his tiktoks kinda
 
-69
+55
 00:04:53,733 --> 00:04:54,733
 hard.
 
-70
+56
 00:04:54,733 --> 00:04:58,553
 You're gonna wanna start out with a circular base like such, and then add a small circle
 
-71
+57
 00:04:58,553 --> 00:05:00,033
 attached to it.
 
-72
+58
 00:05:00,033 --> 00:05:03,593
 Once you have your two little circle buddies, start making them taller and rounder.
 
-73
+59
 00:05:03,593 --> 00:05:06,913
 I focused on the bigger circle first because it's going to be the centerpiece for the
 
-74
+60
 00:05:06,913 --> 00:05:07,913
 build.
 
-75
+61
 00:05:07,913 --> 00:05:11,173
 Also, if this video gets 100 likes, I'll make a video of my little sister following
 
-76
+62
 00:05:11,173 --> 00:05:14,773
 this tutorial to see how she does because she's bad at building and I'm bad at explaining
 
-77
+63
 00:05:14,773 --> 00:05:15,773
 things.
 
-78
+64
 00:05:15,773 --> 00:05:17,153
 Okay, back to the tutorial.
 
-79
+65
 00:05:17,153 --> 00:05:19,953
 If you don't know what shape to make the base of the big mushroom, I referred to the
 
-80
+66
 00:05:19,953 --> 00:05:24,593
 gourd from the 2007 Disney classic Secret of the Magic Gourd, and mine turned out pretty
 
-81
+67
 00:05:24,593 --> 00:05:25,593
 alright.
 
-82
+68
 00:05:25,593 --> 00:05:29,613
 Also, I need to know, was anyone else lowkey traumatized by that movie?
 
-83
+69
 00:05:29,613 --> 00:05:33,333
 Because when I first saw that movie, I guess I just thought gourds were strange pumpkins,
 
-84
+70
 00:05:33,333 --> 00:05:38,473
 so for the longest time I was fundamentally confused on what gourds were.
 
-85
+71
 00:05:38,473 --> 00:05:41,993
 So anyway, you're going to start making another one of those helicopter circle things, and
 
-86
+72
 00:05:41,993 --> 00:05:45,733
 here's a better explanation using calculus if you want to know how to make circles in
 
-87
+73
 00:05:45,733 --> 00:05:46,733
 Minecraft.
 
-88
+74
 00:05:46,733 --> 00:05:47,733
 Presenting!
 
-89
+75
 00:05:47,733 --> 00:05:48,733
 Building circles!
 
-90
+76
 00:05:48,733 --> 00:05:49,733
 Yay!
 
-91
+77
 00:05:49,733 --> 00:05:53,013
 So you're going to want to start out with this sort of graph paper, just trace something
 
-92
+78
 00:05:53,013 --> 00:05:57,593
 circular onto it, and then fill in the blocks that the circle crosses.
 
-93
+79
 00:05:57,593 --> 00:05:59,253
 Make sure it all has the same radius.
 
-94
+80
 00:05:59,253 --> 00:06:00,633
 And then this is where the calculus comes in.
 
-95
+81
 00:06:00,713 --> 00:06:04,013
 If you look at tangent lines, you know what tangent lines are, I hope.
 
-96
+82
 00:06:04,713 --> 00:06:05,673
 You probably don't.
 
-97
+83
 00:06:06,433 --> 00:06:14,473
 But the slope of the tangent line is sort of the slope of, if you were to draw the slope through the grid squares of the circle,
 
-98
+84
 00:06:14,933 --> 00:06:16,733
 this made a lot more sense inside my head.
 
-99
+85
 00:06:16,733 --> 00:06:22,553
 But you can trace pretty much any circle onto graph paper and repeat this process.
 
-100
+86
 00:06:22,673 --> 00:06:26,073
 Just make sure the radius is the same and that each quadrant is the same.
 
-101
+87
 00:06:26,173 --> 00:06:28,153
 And there you go, you have a circle in Minecraft.
 
-102
+88
 00:06:29,253 --> 00:06:33,313
 Okay, now moving on to our other little mushroom buddy.
 
-103
+89
 00:06:33,313 --> 00:06:36,773
 You're going to want to make him a wonky little mushroom that sort of stems off from the big
 
-104
+90
 00:06:36,773 --> 00:06:37,773
 one.
 
-105
+91
 00:06:37,773 --> 00:06:40,913
 It's really hard to explain how I did this, but I would recommend using organic shapes
 
-106
+92
 00:06:40,913 --> 00:06:43,853
 and have the top of the mushroom thinner than the base.
 
-107
+93
 00:06:43,853 --> 00:06:45,493
 Then add a tiny little cap.
 
-108
+94
 00:06:45,493 --> 00:06:49,253
 For the top of the big mushroom, I basically did the same thing as I did for the medium
 
-109
+95
 00:06:49,253 --> 00:07:02,240
 tutorial and despite it being vastly bigger the cap is about the same height Maybe even 5 blocks this time I kinda wanted to make it sorta squishy like the first build but I lost all my brain cells thinking about calculus
 
-110
+96
 00:07:02,240 --> 00:07:05,640
 If you want the mushroom to be super cottagecore, you can add some birch leaves that hang like
 
-111
+97
 00:07:05,640 --> 00:07:07,860
 vines and some hanging lanterns.
 
-112
+98
 00:07:07,860 --> 00:07:09,720
 You could also use shroomlights.
 
-113
+99
 00:07:09,720 --> 00:07:13,800
 I also added an elapidated chimney to match the vibe.
 
-114
+100
 00:07:13,800 --> 00:07:18,180
 For the interior, I started again by connecting the fireplace to the chimney and built a loft
 
-115
+101
 00:07:18,180 --> 00:07:20,300
 area with a ladder leading up to it.
 
-116
+102
 00:07:20,300 --> 00:07:24,980
 And then I got distracted by a wandering trader and quickly resumed my work.
 
-117
+103
 00:07:24,980 --> 00:07:28,520
 And I used an absurd amount of birch leaves to decorate.
 
-118
+104
 00:07:28,520 --> 00:07:32,260
 If you can't tell from my pinterest page, birch leaves are my favourite.
 
-119
+105
 00:07:32,260 --> 00:07:36,060
 Also if you're wondering how they move in the wind, that's the shaders, and I use BSL
 
-120
+106
 00:07:36,060 --> 00:07:37,060
 shaders.
 
-121
+107
 00:07:37,060 --> 00:07:39,540
 As far as I know, they only work for Java Edition.
 
-122
+108
 00:07:39,540 --> 00:07:43,240
 I made a little kitchen space in front of one of the windows, complete with some cake
 
-123
+109
 00:07:43,240 --> 00:07:46,860
 and some turtle eggs, and then added some seating by the fire.
 
-124
+110
 00:07:46,860 --> 00:07:50,860
 In front of the other window, I made what HGTV calls a breakfast nook, complete with
 
-125
+111
 00:07:50,860 --> 00:07:52,140
 some plants.
 
-126
+112
 00:07:52,140 --> 00:07:55,720
 While the bedroom space is smaller than the previous build, I think it turned out nicely
 
-127
+113
 00:07:55,720 --> 00:07:57,680
 and I wouldn't mind living there.
 
-128
+114
 00:07:57,680 --> 00:08:01,620
 After decorating the bedroom, I remembered there was a bunch of empty space in the loft
 
-129
+115
 00:08:01,620 --> 00:08:05,680
 which I promptly decorated with barrels because that can be practical when they're not converting
 
-130
+116
 00:08:05,680 --> 00:08:10,260
 all the villagers to fishers, and I did notice I accidentally made a sort of shrine to Pinocchio
 
-131
+117
 00:08:10,260 --> 00:08:11,840
 which is cool I guess.
 
-132
+118
 00:08:11,840 --> 00:08:17,340
 On the outside I was going for a house-ish entrance, but I ended up making it more like
 
-133
+119
 00:08:17,340 --> 00:08:20,440
 a hobbit hole with spruce trapdoors and slabs and stairs.
 
-134
+120
 00:08:20,440 --> 00:08:26,240
 I also added some dark oak for better contrast, and ended up expanding the windows downward
 
-135
+121
 00:08:26,240 --> 00:08:28,420
 because it just looked better.
 
-136
+122
 00:08:28,420 --> 00:08:32,380
 I added some shutters to the bedroom window and shroom lights to better illuminate it
 
-137
+123
 00:08:32,380 --> 00:08:33,840
 at night.
 
-138
+124
 00:08:33,840 --> 00:08:37,100
 There was something that was still missing though, and I couldn't decide what to do,
 
-139
+125
 00:08:37,100 --> 00:08:41,440
 so I tried this thing I saw on TikTok where you make mushrooms out of end rods and mushroom
 
-140
+126
 00:08:41,440 --> 00:08:51,700
 So yeah, those are three mushroom houses you could easily build in Minecraft.
 
-141
+127
 00:08:51,700 --> 00:08:55,600
 Comment below which one you'd live in, I know I definitely would pick the second one
 
-142
+128
 00:08:55,600 --> 00:08:58,340
 because of the skylight, but that's just me.
 
-143
+129
 00:08:58,340 --> 00:09:03,280
 And if you enjoy this content and would like to see more dollar store green tutorials,
 
-144
+130
 00:09:03,280 --> 00:09:05,720
 please feel free to hit subscribe.
 
-145
+131
 00:09:05,720 --> 00:09:07,020
 See y'all later, byeeee!
 
-146
+132
 00:09:11,440 --> 00:09:13,500
 you

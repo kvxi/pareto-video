@@ -87,11 +87,11 @@ And if this strangely specific scenario applies to you, then boy will you like t
 So now I present three ways to make mushroom houses in Minecraft.
 
 23
-00:01:14,820 --> 00:01:17,239
+00:01:14,820 --> 00:01:17,220
 Yay.
 
 24
-00:01:17,239 --> 00:01:19,900
+00:01:17,220 --> 00:01:19,900
 So the first house is pretty easy.
 
 25
@@ -99,7 +99,7 @@ So the first house is pretty easy.
 You're going to want to start out with a statistically impossible mushroom in the middle of a field
 
 26
-00:01:24,180 --> 00:01:26,139
+00:01:24,139 --> 00:01:26,139
 and use bone meal to make it big.
 
 27
@@ -131,11 +131,11 @@ Once you have achieved maximum upside down flower pot conformity, then you can s
 modifying the stem to make it look stalkier.
 
 34
-00:01:59,339 --> 00:02:04,440
+00:01:59,339 --> 00:02:04,459
 I used the mushroom stem block and smooth quartz stairs, and if you're in survival you'll
 
 35
-00:02:04,440 --> 00:02:08,419
+00:02:04,459 --> 00:02:08,419
 probably want to mine a few of the big mushrooms with a silk touch axe to get the materials
 
 36
@@ -143,11 +143,11 @@ probably want to mine a few of the big mushrooms with a silk touch axe to get th
 for this.
 
 37
-00:02:09,419 --> 00:02:13,160
+00:02:09,419 --> 00:02:13,179
 I used birch plank flooring to match the rest of the interior.
 
 38
-00:02:13,160 --> 00:02:16,020
+00:02:13,179 --> 00:02:16,020
 Now I really like this house, but there's not mushroom.
 
 39
@@ -211,11 +211,11 @@ wannabe BB-8 some helicopter blades.
 These will be the radius of your circular mushroom cap.
 
 54
-00:03:10,979 --> 00:03:14,179
+00:03:10,979 --> 00:03:14,220
 Then connect those little helicopter blades to form a circle.
 
 55
-00:03:14,179 --> 00:03:20,100
+00:03:14,220 --> 00:03:20,100
 Also, I never really found these graphs useful, I always find them on like TikTok, but then
 
 56
@@ -283,11 +283,11 @@ leaves and bookshelves, that's my motto.
 Also, I used flowerpots, turtle eggs, and sea pickles for the inside, and then I discovered
 
 72
-00:04:15,899 --> 00:04:21,019
+00:04:15,899 --> 00:04:20,980
 that in 1.16.5, you can place turtle eggs on flowerpots, which is kind of weird.
 
 73
-00:04:21,019 --> 00:04:25,899
+00:04:20,980 --> 00:04:25,899
 Anywho, I used vines as a ladder to the attic area, which will be a cute little bedroom.
 
 74
@@ -307,15 +307,15 @@ in a skylight, which looks good with the shaders, and I'm sure it would look goo
 So this is the finished build.
 
 78
-00:04:39,459 --> 00:04:44,500
+00:04:39,459 --> 00:04:44,299
 It only took me about 45 minutes to do in creative, so not too bad.
 
 79
-00:04:44,500 --> 00:04:45,500
+00:04:44,299 --> 00:04:45,299
 Ta-da!
 
 80
-00:04:45,500 --> 00:04:50,019
+00:04:45,299 --> 00:04:50,019
 Alright, on to the last one!
 
 81
@@ -335,23 +335,23 @@ attached to it.
 Once you have your two little circle buddies, start making them taller and rounder.
 
 85
-00:05:03,579 --> 00:05:07,380
+00:05:03,579 --> 00:05:07,420
 I focused on the bigger circle first, because it's going to be the centerpiece for the build.
 
 86
-00:05:07,380 --> 00:05:11,299
+00:05:07,420 --> 00:05:11,299
 Also, if this video gets 100 likes, I'll make a video of my little sister following this
 
 87
-00:05:11,299 --> 00:05:14,940
+00:05:11,299 --> 00:05:14,899
 tutorial to see how she does, because she's bad at building and I'm bad at explaining
 
 88
-00:05:14,940 --> 00:05:15,940
+00:05:14,899 --> 00:05:15,899
 things.
 
 89
-00:05:15,940 --> 00:05:17,140
+00:05:15,899 --> 00:05:17,140
 Okay, back to the tutorial.
 
 90
@@ -599,27 +599,35 @@ so I tried this thing I saw on TikTok where you make mushrooms out of end rods a
 blocks, which I was a bit skeptical of, but I really liked how they turned out.
 
 151
-00:08:46,500 --> 00:08:51,859
-So yeah, those are three mushroom houses you could easily build in Minecraft.
+00:08:46,500 --> 00:08:48,020
+So yeah.
 
 152
-00:08:51,859 --> 00:08:56,020
-Comment below which one you'd live in, I know I definitely would pick the second one because
+00:08:48,020 --> 00:08:51,900
+Those are three mushroom houses you could easily build in Minecraft.
 
 153
-00:08:56,020 --> 00:08:58,500
-of the skylight, but that's just me.
+00:08:51,900 --> 00:08:53,500
+Comment below which one you'd live in.
 
 154
-00:08:58,500 --> 00:09:03,419
-And if you enjoy this content and would like to see more dollar store green tutorials,
+00:08:53,500 --> 00:08:57,500
+I know I definitely would pick the second one because of the skylight, but that's just
 
 155
-00:09:03,419 --> 00:09:05,900
-please feel free to hit subscribe.
+00:08:57,500 --> 00:08:58,500
+me.
 
 156
-00:09:05,900 --> 00:09:07,179
+00:08:58,500 --> 00:09:03,460
+And if you enjoy this content and would like to see more dollar store green tutorials,
+
+157
+00:09:03,460 --> 00:09:05,859
+please feel free to hit subscribe.
+
+158
+00:09:05,859 --> 00:09:07,140
 See y'all later, bye!
 
 

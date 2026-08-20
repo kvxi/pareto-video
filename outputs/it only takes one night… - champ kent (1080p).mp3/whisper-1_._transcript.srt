@@ -43,11 +43,11 @@ Trust.
 Now it begins.
 
 12
-00:00:57,439 --> 00:01:00,799
+00:00:57,439 --> 00:01:00,680
 The first page is always going to be the hardest, but it's really all about getting that ball
 
 13
-00:01:00,799 --> 00:01:03,200
+00:01:00,680 --> 00:01:03,200
 rolling.
 
 14
@@ -107,7 +107,7 @@ Not built up in your mind, but on paper, tangible.
 Take a moment, because now you have to ask yourself, how can I change it?
 
 28
-00:01:44,720 --> 00:01:46,680
+00:01:44,680 --> 00:01:46,680
 We're not all Quentin Tarantino.
 
 29

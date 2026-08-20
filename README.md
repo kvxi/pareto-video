@@ -39,8 +39,6 @@ source .venv/bin/activate      # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-`requirements.txt` pulls in:
-
 ### API keys
 
 Add vars.env to root and fill in the following api keys.
